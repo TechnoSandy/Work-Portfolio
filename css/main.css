@@ -193,3 +193,44 @@ table {
     vertical-align: middle;
     float: right;
 }
+
+
+/*Content Middle*/
+
+#content {
+    /*   border: 1px solid red;*/
+}
+
+#content td {
+    padding: 0px;
+    margin: 0px;
+}
+
+#content td a {
+    opacity: 1;
+    padding: 0px;
+    margin: 4px;
+}
+
+#content td a:hover {
+    opacity: 0.5;
+    padding: 0px;
+    margin: 4px;
+}
+
+#content td img {
+    padding: 0px;
+    margin: 0px;
+}
+
+#developerName {
+    margin-bottom: 2%;
+    font-size: 80px;
+    color: red;
+    text-align: center;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    font-family: 'Kaushan Script', cursive;
+}
