@@ -7,4 +7,5 @@ TODO: Need to replace the dummy screenshot images with the real project screensh
 https://technosandy.github.io/Work-Portfolio/
 
 # Screenshot of the Project
-![screenshot](https://cloud.githubusercontent.com/assets/22931190/21577523/94917d62-cf83-11e6-99fa-60d3eaed7229.png)
+![fireshot capture 9 - sandy s portfolio - https___technosandy github io_work-portfolio_](https://cloud.githubusercontent.com/assets/22931190/21593567/87ae7002-d13e-11e6-8bde-73de96851ab8.png)
+
